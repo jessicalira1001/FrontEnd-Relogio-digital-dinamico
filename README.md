@@ -19,6 +19,6 @@ Este projeto é um relógio digital dinâmico desenvolvido utilizando HTML, CSS 
 git clone https://github.com/jessicalira1001/FrontEnd-Relogio-digital-dinamico.git
 
 ### Navegue até o diretório do projeto:
-cd nome-do-repositorio
+cd FrontEnd-Relogio-digital-dinamico
 
 ### Abra o arquivo index.html no seu navegador preferido.
