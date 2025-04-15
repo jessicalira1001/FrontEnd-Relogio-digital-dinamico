@@ -22,3 +22,5 @@ git clone https://github.com/jessicalira1001/FrontEnd-Relogio-digital-dinamico.g
 cd FrontEnd-Relogio-digital-dinamico
 
 ### Abra o arquivo index.html no seu navegador preferido.
+
+Status: Concluído
